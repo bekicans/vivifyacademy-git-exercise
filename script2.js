@@ -1,0 +1,1 @@
+var script2 = "script2.js";
